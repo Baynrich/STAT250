@@ -1,4 +1,4 @@
-samples <- c(4, 5, 6, 7, 7, 5, 5, 5)
+samples <- c(5, 5, 5, 5, 5, 5, 4)
 mu <- 5
 
 t_val <- qt(0.025, length(samples) - 1)
